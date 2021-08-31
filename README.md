@@ -6,7 +6,7 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 ## Notes
 
-### For detailed interview-ready notes on all courses in the Coursera Deep Learning specialization, refer to [www.aman.ai] (https://aman.ai/).
+### For detailed interview ready notes on all courses in the Coursera Deep Learning specialization, refer to [this] (https://aman.ai/).
 
 ## Setup
 
